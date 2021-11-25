@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Karfee
+- 👀 I’m interested in Coding, programming languages, developing and esolanguages
+- 🌱 I’m currently learning C, Python, C#, LOLCODE, CSS, PHP, JavaScript, ecc... 
+- 💞️ I’m looking to collaborate on nothing, i like to work alone
+- 📫 You can reach me by my e-mail, acarfagna03@gmail.com
