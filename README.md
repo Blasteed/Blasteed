@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Karfee
 - 👀 I’m interested in programming language's culture, computer's history, software developing, esolangs and other boring stuff
-- 🌱 I’m currently learning C, Python, C#, LOLCODE, CSS, PHP, JavaScript and others... Anyway you'll never see me studying
-- 💞️ I’m NOT looking to collaborate, i like to work alone but if you're a nice lady (NICE!), I'll like you.
+- 🌱 I’m currently learning C, Python, C#, LOLCODE, CSS, PHP, JavaScript and others... Anyway, you'll never see me studying
+- 💞️ I’m NOT looking to collaborate, I'm into work alone... only if you're a nice lady (NICE!), I'll like you
 - 📫 You can reach me by my e-mail, acarfagna03@gmail.com and on Discord at "𝒦𝒶𝓇𝒻𝑒𝑒#9813"
 - 🈺 Manga and Animes lover (that's not important, maybe people will like/hate me)
 - 📚 English lang user, someone said me that I'm a C1 level-like, so I'll understand you, fish and chips eater
