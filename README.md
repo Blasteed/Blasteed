@@ -18,7 +18,6 @@
 
 ### Connect with me:
 <p align="left">
-  <a href="https://github.com/Blasteed" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Blasteed" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/alessandro-carfagna" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alessandro Carfagna" height="30" width="40" /></a>
   <a href="https://instagram.com/certochesonoilcarfa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="certochesonoilcarfa" height="30" width="40" /></a>
 </p>
