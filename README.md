@@ -51,8 +51,3 @@
   <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/>
 </p>
-
----
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Blasteed&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Blasteed&layout=compact&theme=dark&hide_border=true)
