@@ -1,18 +1,16 @@
 # Hi 👋, I'm Alessandro Carfagna
 
-### SDET | Python & Containerization Enthusiast | Software Quality & LLMs
+### Python & Containerization Enthusiast | Automation & LLMs
 
-- 🔭 I'm currently working on **Improving software quality & building Python tools with a bit of LLM magic ✨**
+- 🔭 I'm currently working on ** building Python tools with a bit of LLM magic ✨**
 
 - 🌱 I'm currently learning **Something new every day — currently refining LLM workflows, local AI tools, and advanced Python patterns**
 
 - 👯 I'm looking to collaborate on **Python automation frameworks, Docker-based setups, Intelligent Systems and Open Source projects**
 
-- 💬 Ask me about **Python, Docker, Test Automation, Databases, WebApps and LLMs**
+- 💬 Ask me about **Python, Docker, Automation, Domotic, Databases, WebApps and LLMs**
 
 - ⚡ Fun fact: **If it can run in a container, it belongs in Docker!**
-
-- 👨‍💻 My resume is available at **[https://web.karfee.space](https://web.karfee.space)**
 
 ---
 
