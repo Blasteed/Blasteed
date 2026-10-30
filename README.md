@@ -23,7 +23,6 @@
 ### Languages and Tools:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=elasticsearch" alt="elasticsearch" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
