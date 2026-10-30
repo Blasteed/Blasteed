@@ -23,6 +23,7 @@
 ### Languages and Tools:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=elasticsearch" alt="elasticsearch" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
@@ -31,25 +32,25 @@
   <img src="https://skillicons.dev/icons?i=elasticsearch" alt="elasticsearch" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" alt="kibana" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=debian" alt="debian" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=bruno" alt="bruno" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=n8n" alt="n8n" width="40" height="40"/>
 </p>
 
 ---
