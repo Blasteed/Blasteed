@@ -2,7 +2,7 @@
 
 ### Python & Containerization Enthusiast | Automation & LLMs
 
-- 🔭 I'm currently working on ** building Python tools with a bit of LLM magic ✨**
+- 🔭 I'm currently working on **building Python tools with a bit of LLM magic ✨**
 
 - 🌱 I'm currently learning **Something new every day — currently refining LLM workflows, local AI tools, and advanced Python patterns**
 
