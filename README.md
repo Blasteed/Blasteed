@@ -1,6 +1,6 @@
 # Hi 👋, I'm Alessandro Carfagna
 
-### Python & Containerization Enthusiast | Automation & LLMs
+### Python & Containerization Enthusiast | Automation & AI
 
 - 🔭 I'm currently working on **building Python tools with a bit of AI magic ✨**
 
